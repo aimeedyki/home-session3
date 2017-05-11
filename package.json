@@ -1,0 +1,19 @@
+{
+  "name": "homesession3",
+  "version": "1.0.0",
+  "description": "codes for home session day 3",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimeedyki/home-session3.git"
+  },
+  "author": "Amarachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimeedyki/home-session3/issues"
+  },
+  "homepage": "https://github.com/aimeedyki/home-session3#readme"
+}
